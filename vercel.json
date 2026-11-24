@@ -1,3 +1,9 @@
 {
-  "name": "devang-portfolio"
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/"
+    }
+  ]
 }
+
